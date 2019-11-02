@@ -1,1 +1,1 @@
-# University-Chemistry-Book
+<p>This text brings together a practical "<strong>Molecular to Macroscopic</strong>" approach, a proven problem solving approach that challenges students to think logically, along with a clear and concise writing style. Combined with the author&rsquo;s teaching experience at the University of Kansas, extensive reviewing and accuracy checks, <strong>Brian Laird&rsquo;s&nbsp;University Chemistry</strong> is certain to meet the needs of both instructor and student.</p>
